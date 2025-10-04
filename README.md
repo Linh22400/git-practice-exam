@@ -1,3 +1,1 @@
-# Git Practice Exam
-Họ tên: <Họ Tên>
-MSSV: <MSSV>
+README từ conflict-demo
